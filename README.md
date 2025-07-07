@@ -99,12 +99,3 @@ nvcc proj.cu -o sobel_cuda && ./sobel_cuda input.bmp output.bmp
 **Hamza Nayab**
 📧 Email: [hamza.nayab48@gmail.com](mailto:hamza.nayab48@gmail.com)
 GitHub: [@Hamza-Nayab](https://github.com/Hamza-Nayab)
-
-```
-
----
-
-✅ You can now copy this directly into your `README.md` file. Just remember to update `@yourusername` with your GitHub handle if you'd like the link to work properly.
-
-Let me know if you want a version with a Makefile or demo image suggestions.
-```
