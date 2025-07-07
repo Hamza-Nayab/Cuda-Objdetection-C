@@ -98,7 +98,7 @@ nvcc proj.cu -o sobel_cuda && ./sobel_cuda input.bmp output.bmp
 
 **Hamza Nayab**
 📧 Email: [hamza.nayab48@gmail.com](mailto:hamza.nayab48@gmail.com)
-GitHub: [@hamzanayab](https://github.com/hamzanayab)
+GitHub: [@Hamza-Nayab](https://github.com/Hamza-Nayab)
 
 ```
 
